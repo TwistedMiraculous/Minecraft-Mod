@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "A": {
+      "item": "tutorialmod:rubranium"
+    },
+    "B": {
+      "item": "tutorialmod:spicerock_dust"
+    }
+  },
+  "pattern": [
+    "ABA",
+    "BBB",
+    "ABA"
+  ],
+  "result": {
+    "count": 1,
+    "id": "tutorialmod:potion_block"
+  }
+}

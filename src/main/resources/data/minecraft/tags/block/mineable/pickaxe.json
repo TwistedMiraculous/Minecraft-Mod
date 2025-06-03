@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "tutorialmod:spicerock_block",
+    "tutorialmod:rubinite_ore",
+    "tutorialmod:rubinite_block",
+    "tutorialmod:potion_block"
+  ]
+}

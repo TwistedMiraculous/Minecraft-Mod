@@ -1,0 +1,13 @@
+{
+  "item.tutorialmod.spicerock_dust": "Spicerock Dust",
+  "item.tutorialmod.rubranium": "Rubranium",
+
+  "block.tutorialmod.potion_block": "Block of Random Potions",
+  "block.tutorialmod.rubinite_block": "Block of Rubinite",
+  "block.tutorialmod.rubinite_ore": "Rubinite Ore",
+  "block.tutorialmod.spicerock_block": "Block of Spicerock",
+
+
+  "creativetab.tutorialmod.custom_items": "Custom Items",
+  "creativetab.tutorialmod.custom_blocks": "Custom Blocks"
+}
